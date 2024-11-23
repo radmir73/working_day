@@ -1,0 +1,208 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Страница — 1" id="Xj0XaBMDLScOzkRkyPtA">
+    <mxGraphModel dx="1434" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-1" value="Системы мониторинг даты и времени" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-5" value="Работа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-8" value="Прием пищи" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-20" value="Сон" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="710" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-34" value="Обучение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="585" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-44" value="Сознание" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="364" y="370" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-45" value="Организм" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-44" target="T-HEzBaSEBR4Y5_wriNX-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-74" value="Запуск/окончание&lt;br&gt;при получении&lt;br&gt;сообщения об уровне&lt;br&gt;насыщения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-47">
+          <mxGeometry x="-0.143" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.075;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-44" target="T-HEzBaSEBR4Y5_wriNX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330.19427965424234" y="468.5211192689503" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-69" value="Начало/окончание &lt;br&gt;рабочего процесса" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-48">
+          <mxGeometry x="0.0789" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-44" target="T-HEzBaSEBR4Y5_wriNX-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514.5222172850661" y="461.26322457444394" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-109" value="Инициация по времени&lt;br&gt;и при наличии доп занятий" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-50">
+          <mxGeometry x="-0.2783" y="-1" relative="1" as="geometry">
+            <mxPoint x="19" y="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-44" target="T-HEzBaSEBR4Y5_wriNX-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="405" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-78" value="Запуск/Окончание&lt;br&gt;в зависимости от уровня&lt;br&gt;усталости" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-51">
+          <mxGeometry x="-0.0333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-44" target="T-HEzBaSEBR4Y5_wriNX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-55" value="Шлет сообщения о текущих &lt;br&gt;дате и времени" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-54">
+          <mxGeometry x="0.1292" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-44" target="T-HEzBaSEBR4Y5_wriNX-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-58" value="Шлет сообщение&lt;br&gt;о состоянии организмам" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-57">
+          <mxGeometry x="0.05" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-59" value="поход в туалет" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="690" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-44" target="T-HEzBaSEBR4Y5_wriNX-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-84" value="Инициация по запросу&lt;br&gt;&amp;nbsp;организма" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-60">
+          <mxGeometry x="0.0891" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-65" value="Ubuntu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="635" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-5" target="T-HEzBaSEBR4Y5_wriNX-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-73" value="Запуск/Выключение &lt;br&gt;рабочей среды" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-72">
+          <mxGeometry x="-0.1005" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-85" value="Поход в магазин" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="110" y="770" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-34" target="T-HEzBaSEBR4Y5_wriNX-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="500" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-98" value="Поездка до&lt;br&gt;учебного заведения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-100" value="Занятие" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="785" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.433;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-98" target="T-HEzBaSEBR4Y5_wriNX-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="440" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-34" target="T-HEzBaSEBR4Y5_wriNX-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="690" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-104" value="Выполнение домашнего задания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-111" value="Рутина" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="645" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-112" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-44" target="T-HEzBaSEBR4Y5_wriNX-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="440" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-113" value="Инициация при получении&lt;br&gt;прочих внешних сообщений" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-112">
+          <mxGeometry x="0.0441" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-111" target="T-HEzBaSEBR4Y5_wriNX-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="770" as="sourcePoint" />
+            <mxPoint x="440" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-119" value="Истощение запасов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-114">
+          <mxGeometry x="-0.1554" y="4" relative="1" as="geometry">
+            <mxPoint x="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-115" value="Уборка" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="280" y="795" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-116" value="Прогулка с собакой" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="770" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-111" target="T-HEzBaSEBR4Y5_wriNX-115">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="440" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-120" value="Высокой уровень &lt;br&gt;загрязнения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-117">
+          <mxGeometry x="0.2503" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-HEzBaSEBR4Y5_wriNX-111" target="T-HEzBaSEBR4Y5_wriNX-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="440" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-HEzBaSEBR4Y5_wriNX-121" value="Получение сообщения&lt;br&gt;от собаки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T-HEzBaSEBR4Y5_wriNX-118">
+          <mxGeometry x="-0.3103" y="-1" relative="1" as="geometry">
+            <mxPoint x="34" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
